@@ -17,6 +17,7 @@ import androidx.navigation.compose.currentBackStackEntryAsState
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
 import androidx.navigation.NavType
+import androidx.compose.foundation.layout.padding
 import com.patronaj.reja.ui.screens.dashboard.DashboardScreen
 import com.patronaj.reja.ui.screens.patient.PatientAddEditScreen
 import com.patronaj.reja.ui.screens.patient.PatientDetailScreen
