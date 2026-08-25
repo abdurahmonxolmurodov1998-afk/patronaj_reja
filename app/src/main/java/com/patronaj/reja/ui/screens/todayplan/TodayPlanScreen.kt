@@ -1,5 +1,5 @@
 package com.patronaj.reja.ui.screens.todayplan
-
+import androidx.compose.foundation.clickable
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
