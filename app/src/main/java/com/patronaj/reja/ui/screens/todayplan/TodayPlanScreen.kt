@@ -30,7 +30,7 @@ import com.patronaj.reja.ui.screens.patient.PatientViewModel
 import java.time.LocalDate
 import java.time.format.DateTimeFormatter
 import java.util.Locale
-
+import androidx.compose.foundation.clickable
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun TodayPlanScreen(onPatientClick: (Long) -> Unit) {
